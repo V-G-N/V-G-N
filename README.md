@@ -1,6 +1,5 @@
-Ola Me Chamo Van Gogh Nithz <h2>
-Bem eu tenho 15 anos e moro no interior de SP <h2>
-Linguagem de Programação <h2>
+bem eu tenho 15 anos e moro no interior de SP <h2>
+# Linguagem de Programação 
 * Python  
 * C#
 * C++
