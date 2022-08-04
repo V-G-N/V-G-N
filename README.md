@@ -1,3 +1,5 @@
+![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
+
 ## Linguagem de Programação 
 ## * Python  
 #### * C# 
