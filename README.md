@@ -2,7 +2,12 @@
 ## * Python  
 #### * C# 
 ##### * C++
-###### * Java   
+###### * Java  
+
+| Frutas  | Verduras | Legumes |
+|    ---: |    ----: |    ---: |
+| Caju    | Agrião   | Cenoura |
+| Maçã    | Brócolis | Ervilha |
 
 
 
