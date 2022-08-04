@@ -1,4 +1,4 @@
-![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
+![MarineGEO circle logo](https://acegif.com/wp-content/gifs/fire-46.gif)
 
 ## Linguagem de Programação 
 ## * Python  
