@@ -1,4 +1,4 @@
-# Linguagem de Programação 
+## Linguagem de Programação 
 ## * Python  
 #### * C# 
 ##### * C++
@@ -6,5 +6,13 @@
 
 
 
-# Redes Social
+## Projetos Ativos 
+- [x] Nightmare
+- [x] V-G-N 
+- [ ] Cooperacity
+
+
+
+
+## Redes Social
 [Instagram](https://www.instagram.com/vangogh.nithz/)
