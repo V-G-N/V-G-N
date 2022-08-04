@@ -4,10 +4,7 @@
 ##### * C++
 ###### * Java  
 
-| Frutas  | Verduras | Legumes |
-|    ---: |    ----: |    ---: |
-| Caju    | Agrião   | Cenoura |
-| Maçã    | Brócolis | Ervilha |
 
 
-
+# Redes Social
+[Instagram](https://www.instagram.com/vangogh.nithz/)
