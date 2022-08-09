@@ -7,10 +7,9 @@
 
 
 ## Projetos Ativos 
-### x = ativo, i = inativo
 - [x] Nightmare
 - [x] V-G-N 
-- [i] Cooperacity (Fork Bruno70i)
+- [ ] Cooperacity (Fork Bruno70i)
 
 
 
