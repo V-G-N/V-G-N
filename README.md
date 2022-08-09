@@ -1,5 +1,3 @@
-![MarineGEO circle logo](https://acegif.com/wp-content/gifs/fire-46.gif)
-
 ## Linguagem de Programação 
 ## * Python  
 #### * C# 
@@ -9,12 +7,14 @@
 
 
 ## Projetos Ativos 
+### x = ativo, i = inativo
 - [x] Nightmare
 - [x] V-G-N 
-- [ ] Cooperacity
+- [i] Cooperacity (Fork Bruno70i)
 
 
 
 
 ## Redes Social
+
 [Instagram](https://www.instagram.com/vangogh.nithz/)
