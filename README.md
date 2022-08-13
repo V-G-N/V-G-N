@@ -1,4 +1,4 @@
-![banner](https://store.steampowered.com/app/326360/Warspear_Online/)
+![banner](https://cdn.akamai.steamstatic.com/steam/apps/326360/extras/1.jpg?t=1620997476)
 
 ## Linguagem de Programação 
 ## * Python  
