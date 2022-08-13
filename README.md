@@ -1,5 +1,5 @@
-![banner](https://cdn.akamai.steamstatic.com/steam/apps/326360/extras/1.jpg?t=1620997476)
-
+![baner](![0b423f3553da26e886592e8621284a09-cr-nio-de-samurai-desenhado-m-o](https://user-images.githubusercontent.com/109101095/184469804-ddae5eeb-5b2a-473a-8f4f-e081128fecf1.png)
+)
 ## Linguagem de Programação 
 ## * Python  
 #### * C# 
