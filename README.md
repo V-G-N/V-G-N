@@ -6,7 +6,7 @@
 ###### * Java  
 
 
-# - [ ] BIMASA - Painel (Desisti dela e do Script </3 ) 
+BIMASA - Painel (Desisti dela e do Script </3 ) 
 
 ## Projetos Ativos 
 
