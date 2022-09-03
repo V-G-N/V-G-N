@@ -6,9 +6,10 @@
 ###### * Java  
 
 
+# - [ ] BIMASA - Painel (Desisti dela e do Script </3 ) 
 
 ## Projetos Ativos 
-- [DESISTO] BIMASA - Painel
+
 - [x] Nightmare
 - [x] V-G-N 
 - [ ] Cooperacity (Fork Bruno70i)
