@@ -5,19 +5,9 @@
 ##### * C++
 ###### * Java  
 
-#ㅤ
-#ㅤ
-#ㅤ
-#ㅤ
-#ㅤ
-#ㅤ
-#ㅤ
+
 # BIMASA - Painel (Desisti dela e do Script </3 ) 
-#ㅤ
-#ㅤ
-#ㅤ
-#ㅤ
-#ㅤ
+
 ## Projetos Ativos 
 
 - [x] Nightmare
