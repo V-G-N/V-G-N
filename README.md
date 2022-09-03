@@ -8,6 +8,7 @@
 
 
 ## Projetos Ativos 
+- [DESISTO] BIMASA - Painel
 - [x] Nightmare
 - [x] V-G-N 
 - [ ] Cooperacity (Fork Bruno70i)
